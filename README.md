@@ -4,12 +4,16 @@
 
 
 ### 🧠 Skills
-- jQuery
-- React, Node.js, Express
-- PostgreSQL, MongoDB
+## Languages:
 - HTML, CSS, JavaScript (ES6+)
 - TypeScript
+
+## Frameworks:
+- React
 - Vue.js
+- jQuery
+- Express.js
+- NodeJS
 
 ### 🚀 Projects
 - [Portfolio Website](https://github.com/wordpress-developer01/Portfolio-website)
