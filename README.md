@@ -4,11 +4,11 @@
 
 
 ### 🧠 Skills
-## Languages:
+### Languages:
 - HTML, CSS, JavaScript (ES6+)
 - TypeScript
 
-## Frameworks:
+### Frameworks:
 - React
 - Vue.js
 - jQuery
