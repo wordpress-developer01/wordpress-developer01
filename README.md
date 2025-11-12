@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### My diplomas and sertificates
+### My diplomas and certificates
 <p>
   <img width="404" height="310" alt="Снимок экрана 2025-11-12 в 15 53 59" src="https://github.com/user-attachments/assets/08312cee-137f-444d-a7fd-fe9b0d75b8c3" />
 </p>
