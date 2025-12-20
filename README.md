@@ -29,6 +29,20 @@
   <img width="404" height="310" alt="Снимок экрана 2025-11-12 в 15 53 59" src="https://github.com/user-attachments/assets/08312cee-137f-444d-a7fd-fe9b0d75b8c3" />
 </p>
 
+## My skills
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wordpress-developer01&layout=compact&langs_count=10&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 
