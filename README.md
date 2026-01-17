@@ -28,7 +28,8 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wordpress-developer01&layout=compact&langs_count=10&hide_border=1&card_width=450" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true)
+
 
 </td>
 <td>
