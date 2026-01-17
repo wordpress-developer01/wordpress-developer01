@@ -24,23 +24,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-<table>
-<tr>
-<td>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true)
-
-
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true&count_private=true&line_height=30&hide_border=1&card_width=450&role=OWNER,COLLABORATOR" />
-
-</td>
-</tr>
-</table>
 
 
 ### My diplomas and certificates
