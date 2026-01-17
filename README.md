@@ -29,6 +29,8 @@
 <td>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wordpress-developer01&show_icons=true)
+
 
 
 </td>
