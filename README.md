@@ -36,8 +36,12 @@
 
 
 
-### 🚀 Projects
+### 🚀 Projects:
+
+### Landing Pages:
 - [Portfolio Website](https://github.com/wordpress-developer01/Portfolio-website)
+- [React Landing Page create Tutorial](https://github.com/wordpress-developer01/ReactLandingPage)
+
+### Frontend Mentor Projects:
 - [Tickets App](https://github.com/wordpress-developer01/Tickets-app)
 - [Browser Extensions Manager](https://github.com/wordpress-developer01/browser-extensions-manager)
-- [React Landing Page create Tutorial](https://github.com/wordpress-developer01/ReactLandingPage)
