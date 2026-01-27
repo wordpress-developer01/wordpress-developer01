@@ -55,4 +55,5 @@
 
 # My code challenges in Codecademy: 
 ## Code Challenges JavaScript Fundamentals:
-- [Code Challenges: reportingForDuty()](https://gist.github.com/codecademydev/536b9e27c0b2f1f955fbe998b5693e27) 
+- [reportingForDuty()](https://gist.github.com/codecademydev/536b9e27c0b2f1f955fbe998b5693e27)
+- [Fix The Broken Code](https://gist.github.com/codecademydev/7f906be62567ee7f6e271f9193172133)
