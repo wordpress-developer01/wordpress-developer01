@@ -55,5 +55,4 @@
 
 # My code challenges in Codecademy: 
 ## Code Challenges JavaScript Fundamentals:
-- [reportingForDuty()](https://gist.github.com/codecademydev/536b9e27c0b2f1f955fbe998b5693e27)
-- [Fix The Broken Code](https://gist.github.com/codecademydev/7f906be62567ee7f6e271f9193172133)
+- [Message Mixer](https://gist.github.com/codecademydev/82bb07e17e534534c3924e7c932c3c87)
