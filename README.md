@@ -50,3 +50,8 @@
 
 ### e-commerces: 
 - [Atmos e-commerce](https://main.dk6bbubyzof6k.amplifyapp.com/)
+
+
+
+# My code challenges in Codecademy: 
+- [Code Challenges: JavaScript Fundamentals reportingForDuty()](https://gist.github.com/codecademydev/536b9e27c0b2f1f955fbe998b5693e27) 
