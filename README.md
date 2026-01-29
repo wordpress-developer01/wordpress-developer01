@@ -49,7 +49,7 @@
 - [Browser Extensions Manager](https://github.com/wordpress-developer01/browser-extensions-manager)
 
 ### e-commerces: 
-- [Atmos e-commerce](https://main.dk6bbubyzof6k.amplifyapp.com/)
+- [Atmos e-commerce](https://github.com/wordpress-developer01/Atmos-E-commerce)
 - [Mini e-commerce](https://github.com/wordpress-developer01/Cart01)
 
 
